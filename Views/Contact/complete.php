@@ -18,7 +18,7 @@
         <div class="contact_box">
             <h2>お問い合わせ</h2>
             <div class="complete_msg">
-                <p>お問い合わせ頂きありがとうございます。</p>
+                <p>問い合わせ頂きありがとうございます。</p>
                 <a href="/index/">トップへ戻る</a>
             </div>
         </div>
